@@ -1,0 +1,3 @@
+This is for experiment 3.
+This experiment is about git stashing.
+Through git stashing we can save our changes in a temporary storage before actually committing them.
