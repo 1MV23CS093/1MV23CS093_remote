@@ -1,0 +1,3 @@
+This is the third text file.
+This for the third experiment.
+Third experiment is about git stashing.
